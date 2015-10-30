@@ -7,7 +7,8 @@ http://www.icstation.com/icstation-channel-micro-relay-module-icse014a-p-5185.ht
 
 ## Usage
 
-Install windows GUI or implement the following serial protocol directly.
+* Install windows GUI or implement the following serial protocol directly.
+* USB-to-Serial IC is Prolific PL-2303HX [OSX Driver Download](http://www.prolific.com.tw/US/ShowProduct.aspx?p_id=229&pcid=41)
 
 ### Protocols
 
